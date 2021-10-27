@@ -3,6 +3,7 @@ galaxy_info:
   description: This role install Kibana
   company: Tea, Coffee and Dance
   role_name: kibana_role
+  namespace: netology
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
